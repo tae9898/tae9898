@@ -1,7 +1,7 @@
 <h1 align="center">hello i'm TAE</h1>
 <h3 align="center">16.03~24.02 kookmin univ, nano electronic physics & electronics</h3>
-
-- 🌱 I’m currently learning **embedded**
+<h3 align="center">24.03~ hmx networks</h3>
+- 🌱 I’m currently working **embedded**
 - 📫 How to reach me **k99779004@naver.com**
 
 ![ezgif com-video-to-gif](https://github.com/tae9898/tae9898/assets/113410967/7075e3ff-a493-4828-ad59-7d94ecd834a9)
