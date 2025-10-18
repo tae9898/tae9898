@@ -4,6 +4,8 @@
 
 
 - 🌱 I’m currently working **embedded sys**
+- **(linux middleware)**
+- i do my work on brcm sdk but now i want to dev another sdk for my experience
 - 📫 How to reach me **k99779004@naver.com**
 
 
